@@ -12,4 +12,5 @@ const voteAge2 = (age) => {
 }
 
 console.log(voteAge2(17))
+console.log();
 
